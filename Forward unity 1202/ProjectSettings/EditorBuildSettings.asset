@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: 70392bab30f334a4b9c9102a859510dc
+  - enabled: 1
+    path: Assets/Scenes/E2D.unity
+    guid: db7c24ba31ced864180625145a78c197
+  - enabled: 1
+    path: Assets/Scenes/Ocean.unity
+    guid: 7ebf133736bca4ba28e8a6fd94e86af2
+  - enabled: 0
+    path: Assets/Scenes/Running.unity
+    guid: d71e3811ca28a4701b8e93bad63b753e
+  m_configObjects: {}

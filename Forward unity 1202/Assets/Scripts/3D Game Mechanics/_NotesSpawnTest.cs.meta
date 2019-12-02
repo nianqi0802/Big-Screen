@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a320f332f4faf84e89779c55a3b581b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LNotes: {fileID: 270717701436951462, guid: 7a93bef9538ef024f9e328c7e80ef6fc, type: 3}
+  - RNotes: {fileID: 5432205273888013393, guid: b37519d709890d444bc0f5268778a07a,
+      type: 3}
+  - LOrigin: {instanceID: 0}
+  - LDestination: {instanceID: 0}
+  - ROrigin: {instanceID: 0}
+  - RDestination: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
